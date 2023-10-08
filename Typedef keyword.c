@@ -1,3 +1,4 @@
+/* this is to tell that the code helps you to understand the structure part of c programming curriculam.
 #include <stdio.h>
 #include <string.h>
  typedef struct student {
