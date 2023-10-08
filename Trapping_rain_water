@@ -10,7 +10,7 @@ int maxWater(int arr[], int n)
 	// To store the maximum water 
 	// that can be stored 
 	int res = 0; 
-
+	// added the extra function to make it public.
 	// For every element of the array 
 	for (int i = 1; i < n - 1; i++) { 
 
